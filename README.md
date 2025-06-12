@@ -25,9 +25,15 @@ A dynamic and interactive web-based world clock application that displays the cu
 ## Installation 
 1. Clone the repository
    ```bash
-   git clone https://github.com/05-Jagritii/world-clock.git
-   cd world-clock
+   git clone https://github.com/05-Jagritii/Date-and-Time.git
+   cd Date-and-Time
 2. Open `index.html` in your browser
+   ```bash
+   start index.html
+## Project Structure
+```
+
+```
 
 
 
