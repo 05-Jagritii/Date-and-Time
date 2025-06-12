@@ -22,6 +22,14 @@ A dynamic and interactive web-based world clock application that displays the cu
 - CSS
 - JavaScript
 - Bootstrap
+## Installation 
+1. Clone the repository
+   ```bash
+   git clone https://github.com/05-Jagritii/world-clock.git
+   cd world-clock
+2. Open `index.html` in your browser
+
+
 
 
 
