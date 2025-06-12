@@ -32,9 +32,20 @@ A dynamic and interactive web-based world clock application that displays the cu
    start index.html
 ## Project Structure
 ```
-
+world-clock/
+│
+├── index.html                
+├── style.css                  
+├── nasa-Q1p7bh3SHj8-unsplash.jpg 
+├── README.md                  
+├── .gitattributes             
 ```
-
+## Author
+Jagriti Kanwar
+<br>
+Mail : [kanwarjagriti21@gmail.com ](mailto:kanwarjagriti21@gmail.com)
+<br>
+LinkedIn : [Jagriti Kanwar](https://www.linkedin.com/in/jagriti-kanwar)
 
 
 
